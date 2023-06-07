@@ -97,3 +97,12 @@ color: var(--branco-principal);
     font-size: 32px;
     color: var(--branco-principal);
 }
+
+.rodape {
+    text-align: center;
+    margin: 5em 0;
+}
+
+.rodape__lista {
+    
+}
